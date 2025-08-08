@@ -1,4 +1,4 @@
-# Panverse Server Rules & Guidelines
+# 📜 Panverse Server Rules & Guidelines
 
 ---
 
